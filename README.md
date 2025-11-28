@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora simples em Java
+Calculadora simples com Java e Window Builder
